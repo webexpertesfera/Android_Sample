@@ -1,8 +1,8 @@
-##Prerequisites ##
+##Prerequisites
 
-Before you begin, ensure you have the following tools installed on your local machine:
+##Before you begin, ensure you have the following tools installed on your local machine:
 
-Android Studio (latest stable version)
+##Android Studio (latest stable version)
 Download Android Studio
 Java Development Kit (JDK)
 JDK 8 or higher is recommended.
@@ -15,10 +15,10 @@ Gradle
 Gradle is automatically managed by Android Studio, so you don’t need to install it separately.
 Installation & Setup
 
-Clone the Repository
+##Clone the Repository
 First, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/your-project-name.git
+##git clone https://github.com/webexpertesfera/Android_Sample.git
 cd your-project-name
 Open the Project in Android Studio
 Launch Android Studio.
@@ -51,7 +51,8 @@ Project Structure
 
 Here’s an overview of the project directory structure:
 
-MyAndroidApp/
+
+##MyAndroidApp/
 │
 ├── app/                        # Main application module
 │   ├── src/                    # Source code
