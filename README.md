@@ -1,8 +1,8 @@
-##Prerequisites
+## Prerequisites
 
-##Before you begin, ensure you have the following tools installed on your local machine:
+Before you begin, ensure you have the following tools installed on your local machine:
 
-##Android Studio (latest stable version)
+## Android Studio (latest stable version)
 Download Android Studio
 Java Development Kit (JDK)
 JDK 8 or higher is recommended.
@@ -13,12 +13,13 @@ Git
 Download Git
 Gradle
 Gradle is automatically managed by Android Studio, so you don’t need to install it separately.
-Installation & Setup
+## Installation & Setup
 
-##Clone the Repository
+Clone the Repository
 First, clone the repository to your local machine:
 
-##git clone https://github.com/webexpertesfera/Android_Sample.git
+## git clone https://github.com/webexpertesfera/Android_Sample.git
+``` 
 cd your-project-name
 Open the Project in Android Studio
 Launch Android Studio.
@@ -28,7 +29,7 @@ Android Studio will automatically sync the project and download the required dep
 Install Dependencies
 If the dependencies are not installed automatically, you can manually sync them by running:
 
-./gradlew build
+bash ./gradlew build
 This will download all the necessary dependencies.
 
 Running the Project
@@ -51,9 +52,9 @@ Project Structure
 
 Here’s an overview of the project directory structure:
 
-
-##MyAndroidApp/
-│
+```
+## MyAndroidApp
+```
 ├── app/                        # Main application module
 │   ├── src/                    # Source code
 │   │   ├── main/               # Main application code
@@ -67,3 +68,4 @@ Here’s an overview of the project directory structure:
 ├── build.gradle                # Project-level build file
 ├── settings.gradle             # Settings for project modules
 └── README.md                   # This file
+```
