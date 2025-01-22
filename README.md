@@ -1,4 +1,4 @@
-Prerequisites
+##Prerequisites ##
 
 Before you begin, ensure you have the following tools installed on your local machine:
 
